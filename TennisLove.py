@@ -15,7 +15,7 @@ Ngames = int(input("How many games are you playing?\n"))
 print("\nLet the games begin!\nFirst Game: Love All!\n",P1,': Love\n',P2,': Love\n')
 
 #-------------------------------------------------------------------
-P1Score = [0,0,0,0]            #Score throughout a match [rally, games, sets, matches]
+P1Score = [0,0,0,0] #Score throughout a match [rally, games, sets, matches]
 P2Score = [0,0,0,0]
 
 P1in = P1[0]        #short input initial during the game
